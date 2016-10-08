@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TabView">
+        <attr name="tabView" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="TabSelectorLayout">
+        <attr name="drawablePadding" format="dimension"/>
+        <attr name="normalTextColor" format="color"/>
+        <attr name="selectTextColor" format="color"/>
+        <attr name="android:textSize"/>
+    </declare-styleable>
+</resources>
